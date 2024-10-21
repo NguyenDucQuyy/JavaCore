@@ -1,0 +1,2 @@
+module JavaB1 {
+}
